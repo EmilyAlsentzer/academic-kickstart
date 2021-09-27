@@ -21,9 +21,11 @@ organizations:
 bio: My research interests broadly include machine learning for healthcare.
 
 interests:
+- Deployable ML
+- Human-in-the-loop ML
+- Few Shot Learning
+- NLP & Graph Neural Networks
 - Summarization
-- Question Answering
-- Knowledge Graphs
 - Rare Disease Diagnosis
 
 education:
@@ -71,6 +73,6 @@ email: ""
 # - Visitors
 ---
 
-I'm a PhD student in Health Science & Technology (HST) at MIT & Harvard Medical School where I'm co-advised by Zak Kohane and Pete Szolovits. My research interests broadly include developing machine learning methods for healthcare with a focus on natural language processing. 
+I'm a PhD student in Health Science & Technology (HST) at MIT & Harvard Medical School where I'm co-advised by Zak Kohane and Pete Szolovits. I am working to develop machine learning tools that can augment clinicians by helping them find and make sense of the abundance of patient data. I am currently focusing on developing few-shot methods for the diagnosis of patients with rare genetic diseases in the [Undiagnosed Disease Network](https://undiagnosed.hms.harvard.edu/), but am more broadly interested in research that addresses barriers to clinical deployment (e.g. learning with limited data, human-in-the-loop data annotation and deployment, etc.). 
 
 
