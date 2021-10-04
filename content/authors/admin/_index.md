@@ -1,13 +1,15 @@
 ---
 # Display name
-name: Emily Alsentzer
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: Emily Alsentzer
 
 # Is this the primary user of the site?
 superuser: true
+
+# # Username (this should match the folder name)
+# authors:
+# - admin
+
+
 
 # Role/position
 role: PhD Student
