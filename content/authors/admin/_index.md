@@ -74,6 +74,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a PhD student in Health Science & Technology (HST) at MIT & Harvard Medical School where I'm co-advised by Zak Kohane and Pete Szolovits. I am working to develop machine learning tools that can augment clinicians by helping them find and make sense of the abundance of patient data. I am currently focusing on developing few-shot methods for the diagnosis of patients with rare genetic diseases in the [Undiagnosed Disease Network](https://undiagnosed.hms.harvard.edu/), but am more broadly interested in research that addresses barriers to clinical deployment (e.g. learning with limited data, human-in-the-loop data annotation and deployment, etc.). 
+I'm a PhD student in Health Science & Technology (HST) at MIT & Harvard Medical School where I'm co-advised by Zak Kohane and Pete Szolovits. I am working to develop machine learning tools that can enable clinicians by helping them quickly find and interpret abundant patient data. I am currently focusing on developing few-shot methods for the diagnosis of patients with rare genetic diseases in the [Undiagnosed Disease Network](https://undiagnosed.hms.harvard.edu/), but am more broadly interested in research that addresses barriers to clinical deployment (e.g. learning with limited data, human-in-the-loop data annotation and deployment, etc.). 
 
 
