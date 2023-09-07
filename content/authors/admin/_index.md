@@ -51,7 +51,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:ealsentzer@bwh.harvard.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Emily_Alsentzer
@@ -73,6 +73,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+**I'm on the job market this fall 2023! If you know of any positions that would be a good fit, please let me know at ealsentzer at bwh.harvard.edu**
+
 My research addresses the challenges of applying machine learning and natural language processing to healthcare. I work to develop tools that can augment clinicians and patients by helping them quickly find and interpret abundant medical data. My work is motivated by two core questions: (1) How do we develop generalizable models that can learn with limited annotated data? and (2) How can we design trustworthy human-in-the-loop tools that augment clinician decision making?
 
 I am currently a postdoctoral fellow at Brigham and Women's Hospital and Harvard Medical School (HMS) where I am working to deploy ML models within the Mass General Brigham healthcare system. I completed my PhD in the Health Science & Technology (HST) program at MIT & HMS, co-advised by Zak Kohane and Pete Szolovits. During my PhD, I created [ClinicalBERT](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT), a language model trained on electronic health records that has millions of downloads on HuggingFace, and developed [SHEPHERD](https://www.medrxiv.org/content/10.1101/2022.12.07.22283238v1), a graph neural network approach for the diagnosis of patients with rare genetic diseases in the [Undiagnosed Disease Network](https://undiagnosed.hms.harvard.edu/).
