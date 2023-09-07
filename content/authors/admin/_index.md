@@ -12,11 +12,11 @@ superuser: true
 
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: MIT & Harvard Medical School
+- name: Brigham and Women's Hospital & Harvard Medical School
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,10 +24,10 @@ bio: My research interests broadly include machine learning for healthcare.
 
 # Interests to show in About widget
 interests:
-- Deployable ML
-- Human-in-the-loop ML
+- Deployable Machine Learning
 - Few Shot Learning
-- NLP & Graph Neural Networks
+- Natural Language Processing & LLMs
+- Graph Neural Networks
 - Summarization
 - Rare Disease Diagnosis
 
@@ -36,7 +36,7 @@ education:
   courses:
   - course: PhD in Medical Engineering & Medical Physics (HST)
     institution: Massachusetts Institute of Technology
-    year: 2022 (expected)
+    year: 2022 
   - course: MS in Biomedical Informatics
     institution: Stanford University
     year: 2017
@@ -73,7 +73,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+My research addresses the challenges of applying machine learning and natural language processing to healthcare. I work to develop tools that can augment clinicians and patients by helping them quickly find and interpret abundant medical data. My work is motivated by two core questions: (1) How do we develop generalizable models that can learn with limited annotated data? and (2) How can we design trustworthy human-in-the-loop tools that augment clinician decision making?
 
-I'm a PhD student in Health Science & Technology (HST) at MIT & Harvard Medical School where I'm co-advised by Zak Kohane and Pete Szolovits. I am working to develop machine learning tools that can enable clinicians by helping them quickly find and interpret abundant patient data. I am currently focusing on developing few-shot methods for the diagnosis of patients with rare genetic diseases in the [Undiagnosed Disease Network](https://undiagnosed.hms.harvard.edu/), but am more broadly interested in research that addresses barriers to clinical deployment (e.g. learning with limited data, human-in-the-loop data annotation and deployment, etc.). 
-
+I am currently a postdoctoral fellow at Brigham and Women's Hospital and Harvard Medical School (HMS) where I am working to deploy ML models within the Mass General Brigham healthcare system. I completed my PhD in the Health Science & Technology (HST) program at MIT & HMS, co-advised by Zak Kohane and Pete Szolovits. During my PhD, I created [ClinicalBERT](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT), a language model trained on electronic health records that has millions of downloads on HuggingFace, and developed [SHEPHERD](https://www.medrxiv.org/content/10.1101/2022.12.07.22283238v1), a graph neural network approach for the diagnosis of patients with rare genetic diseases in the [Undiagnosed Disease Network](https://undiagnosed.hms.harvard.edu/).
 
