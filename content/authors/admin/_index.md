@@ -73,7 +73,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-**I'm on the job market this fall 2023! If you know of any positions that would be a good fit, please let me know at ealsentzer at bwh.harvard.edu**
+**I'm on the job market this fall 2023! If you know of any positions that would be a good fit, please let me know at ealsentzer at bwh.harvard.edu.**
 
 My research addresses the challenges of applying machine learning and natural language processing to healthcare. I work to develop tools that can augment clinicians and patients by helping them quickly find and interpret abundant medical data. My work is motivated by two core questions: (1) How do we develop generalizable models that can learn with limited annotated data? and (2) How can we design trustworthy human-in-the-loop tools that augment clinician decision making?
 
