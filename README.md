@@ -1,3 +1,10 @@
+# Emily Instructions
+
+Manage site / check whether it's deployed at https://app.netlify.com/sites/emilyalsentzer/overview
+Local repo can be found here: /Users/emilya/Documents/Documents_EmilysMacBookPro/website/academic-kickstart
+You can update publications by modifying a bib file and then running `academic import --bibtex publications.bib`
+
+
 <p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
