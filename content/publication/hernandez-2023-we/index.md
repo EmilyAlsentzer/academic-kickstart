@@ -17,11 +17,11 @@ abstract: ""
 # Is this a featured publication? (true/false)
 featured: false
 publication: "*Conference on Health, Inference, and Learning*"
-publication_short = ""
+publication_short: ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags: []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -29,7 +29,7 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -37,23 +37,23 @@ projects = []
 #   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides: ""
 
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary: ""
 
 
 # Links (optional).
-url_pdf = "https://proceedings.mlr.press/v209/eric23a/eric23a.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+url_pdf: "https://proceedings.mlr.press/v209/eric23a/eric23a.pdf"
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+url_project: ""
+url_slides: ""
+url_video: ""
+url_poster: ""
+url_source: ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{name = "Custom Link", url = "http://example.org"}]
