@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*medRxiv*"
+url_pdf: "https://www.medrxiv.org/content/10.1101/2022.12.07.22283238v1"
+
 ---
 
