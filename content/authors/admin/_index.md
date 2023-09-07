@@ -20,7 +20,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests broadly include machine learning for healthcare.
+bio: My research addresses the challenges of applying machine learning and natural language processing to healthcare.
 
 # Interests to show in About widget
 interests:
