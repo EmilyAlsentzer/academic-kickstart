@@ -56,22 +56,22 @@ url_poster: ""
 url_source: ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+# links: [{name = "Custom Link", url = "http://example.org"}]
 
 
 # Does this page contain LaTeX math? (true/false)
-math = false
+math: false
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # [image]
 # Caption (optional)
-# caption = ""
+# caption: ""
 
 # Focal point (optional)
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-# focal_point = "Smart"
+# focal_point: "Smart"
 
 ---
 CHIL 2023 Best Paper Award
