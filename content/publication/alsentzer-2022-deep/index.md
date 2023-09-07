@@ -12,6 +12,7 @@ url_code: "https://github.com/mims-harvard/SHEPHERD"
 links: 
 - name: Project Website
   url: https://zitniklab.hms.harvard.edu/projects/SHEPHERD/
-
+- name: HuggingFace Demo
+  url: https://huggingface.co/spaces/emilyalsentzer/SHEPHERD
 ---
 
