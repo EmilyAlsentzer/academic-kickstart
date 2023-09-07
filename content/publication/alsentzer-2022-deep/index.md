@@ -8,6 +8,10 @@ abstract: ""
 featured: false
 publication: "*medRxiv*"
 url_pdf: "https://www.medrxiv.org/content/10.1101/2022.12.07.22283238v1"
+url_code: "https://github.com/mims-harvard/SHEPHERD"
+links: 
+- name: Project Website
+  url: https://zitniklab.hms.harvard.edu/projects/SHEPHERD/
 
 ---
 
