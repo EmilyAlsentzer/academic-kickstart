@@ -51,7 +51,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ealsentzer@bwh.harvard.edu'
+  link: 'mailto:ealsentzer@stanford.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Emily_Alsentzer
