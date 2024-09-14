@@ -8,9 +8,9 @@
 theme: minimal
 day_night: true
 font: ''
-#font_size: M
-font_size: "11"
-font_size_small: "11"
+font_size: S
+# font_size: "11"
+# font_size_small: "11"
 # SEO
 
 site_type: Person
