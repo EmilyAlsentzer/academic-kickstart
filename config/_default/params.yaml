@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: ealsentzer at bwh.harvard.edu
+email: ealsentzer at stanford.edu
 #phone: 888 888 88 88
-address:
-  street: 32 Vassar Street
-  city: Cambridge
-  region: Massachusetts
-  postcode: '02139'
-  country: United States
-  country_code: US
+# address:
+#   street: 32 Vassar Street
+#   city: Cambridge
+#   region: Massachusetts
+#   postcode: '02139'
+#   country: United States
+#   country_code: US
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
