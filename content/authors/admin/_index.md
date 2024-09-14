@@ -12,11 +12,11 @@ authors:
 
 
 # Role/position
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Brigham and Women's Hospital & Harvard Medical School
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ bio: My research addresses the challenges of applying machine learning and natur
 interests:
 - Deployable Machine Learning
 - Few Shot Learning
-- Natural Language Processing & LLMs
+- LLMs & Foundation Models
 - Graph Neural Networks
 - Summarization
 - Rare Disease Diagnosis
@@ -74,7 +74,7 @@ email: ""
 highlight_name: true
 ---
 
-My research addresses the challenges of applying machine learning and natural language processing to healthcare. I work to develop tools that can augment clinicians and patients by helping them quickly find and interpret abundant medical data. My work is motivated by two core questions: (1) How do we develop generalizable models that can learn with limited annotated data? and (2) How can we design trustworthy human-in-the-loop tools that augment clinician decision making?
+I am an Assistant Professor of Biomedical Data Science and, by courtesy, of Computer Science at Stanford University. The core goal of my research is to augment clinical decision making and broaden access to high quality healthcare through the use of machine learning (ML) and natural language processing (NLP). I leverage heterogeneous clinical data, such as electronic health records (EHRs) and genomic data, to provide actionable insights to clinicians, researchers, and patients and develop new methods to infuse biomedical knowledge found in knowledge graphs and text into machine learning algorithms. My work is motivated by the question: how can we design trustworthy machine learning methods that excel in settings with limited annotated data and can be deployed safely and
+effectively into clinical workflows? 
 
-I am currently a postdoctoral fellow at Brigham and Women's Hospital and Harvard Medical School (HMS) where I am working to deploy ML models within the Mass General Brigham healthcare system. I completed my PhD in the [Health Science & Technology (HST) program](https://hst.mit.edu/about) at MIT & HMS, co-advised by Zak Kohane and Pete Szolovits. During my PhD, I created [ClinicalBERT](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT), a language model trained on electronic health records that has millions of downloads on HuggingFace, and developed [SHEPHERD](https://www.medrxiv.org/content/10.1101/2022.12.07.22283238v1), a graph neural network approach for the diagnosis of patients with rare genetic diseases in the [Undiagnosed Disease Network](https://undiagnosed.hms.harvard.edu/).
-
+Previously, I was a postdoctoral fellow at Brigham and Women's Hospital and Harvard Medical School (HMS) where I worked to deploy ML models within the Mass General Brigham healthcare system. I received my PhD from the [Health Science & Technology (HST) program](https://hst.mit.edu/about) at MIT & HMS, co-advised by Zak Kohane and Pete Szolovits. During my PhD, I created [ClinicalBERT](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT), a language model trained on electronic health records that has millions of downloads on HuggingFace, and developed [SHEPHERD](https://www.medrxiv.org/content/10.1101/2022.12.07.22283238v1), a graph neural network approach for the diagnosis of patients with rare genetic diseases in the [Undiagnosed Disease Network](https://undiagnosed.hms.harvard.edu/).
